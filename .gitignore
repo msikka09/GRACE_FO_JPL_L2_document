@@ -1,0 +1,8 @@
+build
+_build
+_static
+_templates
+*.ipynb_checkpoints*
+/Tutorials_as_Jupyter_Notebooks/.ipynb_checkpoints/*
+.README.md.swp
+*.pyc
