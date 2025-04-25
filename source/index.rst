@@ -6,23 +6,20 @@
 GRACE-FO documentation
 ========================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
-
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: JPL L2 Processing Document:
 
    content/document_description.rst
    content/orbit_dynamics_models.rst
    content/earth_and_satellite_kinematics.rst
    content/references.rst 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 1
+   :caption: Other Documents
+   
+   Main Menu <https://multi-sample.readthedocs.io/en/latest/>
+   L2 JPL Processing Document <https://grace-fo-jpl-l2-document.readthedocs.io/en/latest/>
+   L3 User Handbook <https://multi-sample.readthedocs.io/projects/grace-fo-l3-handbook/>
