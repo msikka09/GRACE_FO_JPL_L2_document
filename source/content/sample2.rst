@@ -42,6 +42,43 @@ Skip a line for a new paragraph. You can use italics (*e.g.*
 
 *Thermodynamics is everywhere*) or **bold**. Greek letters are a snap:
 
+:math:`\Psi`, :math:`\psi`, :math:`\Phi`, :math:`\phi`. Equations within
+
+text are easy— A well known Maxwell thermodynamic relation is
+
+:math:`\left.{\partial T \over \partial P}\right|_{s} = 
+
+\left.{\partial v \over \partial s}\right|_{P}`. You can also set aside
+
+equations like so:
+
+
+
+.. math::
+
+
+
+   \begin{aligned}
+
+   du &=& T\ ds -P\ dv, \qquad \mbox{first law.}\label{fl}\\
+
+   ds &\ge& {\delta q \over T}.\qquad  \qquad \mbox{second law.} \label{sl}
+
+   \end{aligned}
+
+
+
+Eq. (`[fl] <#fl>`__) is the first law. Eq. (`[sl] <#sl>`__) is the
+
+second law. References [1]_ are available. If you have a postscript
+
+file, say ``sample.figure.eps``, in the same local directory, you can
+
+insert the file as a figure. Figure `1 <#sample>`__, below, plots an
+
+isotherm for air modeled as an ideal gas.
+
+
 
 .. container:: float
 
@@ -94,4 +131,10 @@ standard tools. Alternatively, you can use ``TeXShop`` on a Macintosh or
 closing statement as below.
 
 
+
+.. [1]
+
+   Lamport, L., 1986, *LaTeX: User’s Guide & Reference Manual*,
+
+   Addison-Wesley: Reading, Massachusetts.
 
