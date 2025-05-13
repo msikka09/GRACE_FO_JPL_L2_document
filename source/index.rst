@@ -1,3 +1,4 @@
+
 .. GRACE-FO Level 3 User Handbook, created by
    sphinx-quickstart on Fri Feb 28 15:44:30 2025.
    You can adapt this file completely to your liking, but it should at least
@@ -14,7 +15,7 @@ GRACE-FO documentation
    content/orbit_dynamics_models.rst
    content/earth_and_satellite_kinematics.rst
    content/references.rst 
-   content/GRACE-FO_L2-ReleaseNotes_JPL_RL06.3
+   #content/GRACE-FO_L2-ReleaseNotes_JPL_RL06.3
    content/sample2.rst
 
 
