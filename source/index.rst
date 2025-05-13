@@ -14,6 +14,7 @@ GRACE-FO documentation
    content/orbit_dynamics_models.rst
    content/earth_and_satellite_kinematics.rst
    content/references.rst 
+   content/GRACE-FO_L2-ReleaseNotes_JPL_RL06.3
    content/sample2.rst
 
 
